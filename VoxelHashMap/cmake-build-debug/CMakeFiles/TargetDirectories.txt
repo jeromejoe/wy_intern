@@ -1,3 +1,0 @@
-/home/zzy/wangyu/ViewPoints/VoxelMap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/zzy/wangyu/ViewPoints/VoxelMap/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/zzy/wangyu/ViewPoints/VoxelMap/cmake-build-debug/CMakeFiles/VoxelMap.dir
